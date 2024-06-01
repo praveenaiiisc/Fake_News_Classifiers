@@ -1,6 +1,6 @@
 # Fake_News_Classifiers
 * Build a system to identify unreliable news articles
- ### Data
+ ### Data (from Kaggle)
 * train.csv: A full training dataset with the following attributes:
 
     id: unique id for a news article
